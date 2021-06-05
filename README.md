@@ -1,2 +1,2 @@
-# mylibrary
-added my own library with bounceoff and isTouching
+# p5.play-boilerplate
+Boiler plate for p5.play
